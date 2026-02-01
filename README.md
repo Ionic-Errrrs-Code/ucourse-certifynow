@@ -130,7 +130,7 @@ Developed by **Ionic Errrors Code** - A team of 2 passionate developers committe
 
 ## 📄 License
 
-© 2024 Ionic Errrors Code. All rights reserved.
+© 2026 Ionic Errrors Code. All rights reserved.
 
 ---
 
